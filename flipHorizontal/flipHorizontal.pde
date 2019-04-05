@@ -1,4 +1,4 @@
-//Flip vertical pixel a pixel de uma imagem.
+//Flip horizontal pixel a pixel de uma imagem.
 PImage novo;
 PImage novo2;
 
