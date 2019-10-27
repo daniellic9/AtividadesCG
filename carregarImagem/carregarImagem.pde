@@ -3,9 +3,9 @@ PImage novo;
 PImage novo2;
 
 void setup(){
-  size(1000,1000);
-  novo = loadImage("outputImage.png");//imagem original
-  novo2 = loadImage("outputImage.png");//imagem que sera invertida
+  size(1000,500);
+  novo = loadImage("inputImage.png");//imagem original
+  novo2 = loadImage("inputImage.png");//imagem que sera invertida
 }
 
 void draw(){
