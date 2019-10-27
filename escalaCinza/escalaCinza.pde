@@ -2,9 +2,9 @@ PImage novo;
 PImage novo2;
 
 void setup(){
-  size(1000,1000);
-  novo = loadImage("outputImage.png");
-  novo2 = loadImage("outputImage.png");
+  size(1000,500);
+  novo = loadImage("inputImage.png");
+  novo2 = loadImage("inputImage.png");
 }
 
 void draw(){

@@ -1,3 +1,5 @@
+//Precisa instalar a biblioteca Minim
+
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 
