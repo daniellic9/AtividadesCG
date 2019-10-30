@@ -1,3 +1,6 @@
+// Autor: Danielli Costa e Thayza Sacconi
+// Primeiras tentativas de criar o tapete de sierpinski
+
 void setup(){
 size(500,500,P2D);
 background(0);
